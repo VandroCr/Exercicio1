@@ -35,15 +35,15 @@ namespace Exercicio1
             // Verifica se foi aprovado (média >= 7.0)
             if (media >= 7.0)
             {
-                Console.WriteLine("Status: APROVADO! 🎉");
+                Console.WriteLine("Status: APROVADO!");
             }
             else if (media >= 5.0)
             {
-                Console.WriteLine("Status: RECUPERAÇÃO ⚠️");
+                Console.WriteLine("Status: RECUPERAÇÃO");
             }
             else
             {
-                Console.WriteLine("Status: REPROVADO ❌");
+                Console.WriteLine("Status: REPROVADO");
             }
 
             Console.WriteLine();
