@@ -1,6 +1,10 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿using System;
 
-
-
-Console.WriteLine("PERGUNBHNTAAAAAA  para Vanildaaaaaaaaaaa.");
-Console.WriteLine("PERGUNBHNTAAAAAA 3");
+class ExercicioTres
+{
+    public static void Main(string[] args)
+    {
+        Console.WriteLine("PERGUNBHNTAAAAAA  para Vanildaaaaaaaaaaa.");
+        Console.WriteLine("PERGUNBHNTAAAAAA 3");
+    }
+}

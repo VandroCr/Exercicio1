@@ -2,7 +2,7 @@
 
 namespace PerguntasExer2
 {
-    class Program
+    class MinhaCalculadora
     {
         static void Main(string[] args)
         {

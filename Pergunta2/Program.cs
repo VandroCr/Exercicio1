@@ -1,2 +1,12 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("pERGUNTA 2 teste..");
+﻿using System;
+
+class ExercicioDois
+{
+    public static void Main(string[] args)
+    {
+        Console.WriteLine("pERGUNTA 2 teste..");
+    }
+}
+
+
+
