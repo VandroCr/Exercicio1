@@ -296,7 +296,7 @@ namespace ExercicioTres
         {
             if (Estado != EstadoBraco.EmAtividade)
             {
-                Console.WriteLine($"ERRO: Braço {Nome} deve estar ativo!");
+                Console.WriteLine($"ERRO: Braço {Nome} deve estar ativoo!");
                 return false;
             }
             
